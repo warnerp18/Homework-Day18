@@ -4,6 +4,7 @@
 
 #container {
 	position: relative;
+	margin: 2em;
 }
 
 .left {
@@ -13,6 +14,9 @@
 	border-right: .1em solid gray;
 }
 
+img {
+	width: 100%
+}
 .right {
 	height: 500px;
 	
